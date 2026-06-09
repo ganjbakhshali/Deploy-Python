@@ -1,0 +1,17 @@
+E:\coding_projects\RandomFoodAPI_Csharp\RandomFoodAPI_Csharp\bin\Debug\net6.0-windows\RandomFoodAPI_Csharp.exe
+E:\coding_projects\RandomFoodAPI_Csharp\RandomFoodAPI_Csharp\bin\Debug\net6.0-windows\RandomFoodAPI_Csharp.deps.json
+E:\coding_projects\RandomFoodAPI_Csharp\RandomFoodAPI_Csharp\bin\Debug\net6.0-windows\RandomFoodAPI_Csharp.runtimeconfig.json
+E:\coding_projects\RandomFoodAPI_Csharp\RandomFoodAPI_Csharp\bin\Debug\net6.0-windows\RandomFoodAPI_Csharp.dll
+E:\coding_projects\RandomFoodAPI_Csharp\RandomFoodAPI_Csharp\bin\Debug\net6.0-windows\RandomFoodAPI_Csharp.pdb
+E:\coding_projects\RandomFoodAPI_Csharp\RandomFoodAPI_Csharp\obj\Debug\net6.0-windows\RandomFoodAPI_Csharp.csproj.AssemblyReference.cache
+E:\coding_projects\RandomFoodAPI_Csharp\RandomFoodAPI_Csharp\obj\Debug\net6.0-windows\RandomFoodAPI_Csharp.Form1.resources
+E:\coding_projects\RandomFoodAPI_Csharp\RandomFoodAPI_Csharp\obj\Debug\net6.0-windows\RandomFoodAPI_Csharp.csproj.GenerateResource.cache
+E:\coding_projects\RandomFoodAPI_Csharp\RandomFoodAPI_Csharp\obj\Debug\net6.0-windows\RandomFoodAPI_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\coding_projects\RandomFoodAPI_Csharp\RandomFoodAPI_Csharp\obj\Debug\net6.0-windows\RandomFoodAPI_Csharp.AssemblyInfoInputs.cache
+E:\coding_projects\RandomFoodAPI_Csharp\RandomFoodAPI_Csharp\obj\Debug\net6.0-windows\RandomFoodAPI_Csharp.AssemblyInfo.cs
+E:\coding_projects\RandomFoodAPI_Csharp\RandomFoodAPI_Csharp\obj\Debug\net6.0-windows\RandomFoodAPI_Csharp.csproj.CoreCompileInputs.cache
+E:\coding_projects\RandomFoodAPI_Csharp\RandomFoodAPI_Csharp\obj\Debug\net6.0-windows\RandomFoodAPI_Csharp.dll
+E:\coding_projects\RandomFoodAPI_Csharp\RandomFoodAPI_Csharp\obj\Debug\net6.0-windows\refint\RandomFoodAPI_Csharp.dll
+E:\coding_projects\RandomFoodAPI_Csharp\RandomFoodAPI_Csharp\obj\Debug\net6.0-windows\RandomFoodAPI_Csharp.pdb
+E:\coding_projects\RandomFoodAPI_Csharp\RandomFoodAPI_Csharp\obj\Debug\net6.0-windows\RandomFoodAPI_Csharp.genruntimeconfig.cache
+E:\coding_projects\RandomFoodAPI_Csharp\RandomFoodAPI_Csharp\obj\Debug\net6.0-windows\ref\RandomFoodAPI_Csharp.dll
