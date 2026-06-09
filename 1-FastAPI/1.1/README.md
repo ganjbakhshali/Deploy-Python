@@ -2,6 +2,7 @@
 # API Practice Projects
 
 In this session, we explored the basics of working with REST APIs and consuming web services in desktop applications.
+Learning how to use Simple API
 
 ## Projects Implemented
 
