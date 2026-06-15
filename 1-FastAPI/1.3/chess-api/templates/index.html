@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head><title>Chess API</title></head>
+<body>
+    <h1>Chess Pieces</h1>
+    <ul>
+        {% for name in pieces %}
+        <li><a href="/pieces/{{ name }}">{{ name.capitalize() }}</a></li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

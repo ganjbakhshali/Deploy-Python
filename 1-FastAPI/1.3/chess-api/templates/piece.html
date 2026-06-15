@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ piece.name }}</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; padding: 50px; }
+        img { width: 150px; }
+        .card { border: 1px solid #ccc; padding: 20px; border-radius: 10px; display: inline-block; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <img src="{{ piece.image_url }}" alt="{{ piece.name }}">
+        <h1>{{ piece.name }}</h1>
+        <p><strong>Value:</strong> {{ piece.value }}</p>
+        <p><strong>Movement:</strong> {{ piece.movement }}</p>
+        <p>{{ piece.description }}</p>
+        <a href="/">Back to list</a>
+    </div>
+</body>
+</html>
