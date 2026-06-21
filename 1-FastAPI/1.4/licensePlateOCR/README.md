@@ -1,4 +1,3 @@
-:::writing
 # Iranian License Plate Recognition API
 
 A simple **computer vision API** built with **FastAPI** that detects Iranian vehicle license plates using **YOLO** and reads the plate number using **OCR**.
@@ -240,4 +239,3 @@ This project demonstrates:
 - Handling **file uploads in FastAPI**
 - Implementing **HTTPException for error handling**
 - Automatically generated **API documentation with Swagger and ReDoc**
-:::
