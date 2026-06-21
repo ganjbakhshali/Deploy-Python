@@ -1,4 +1,3 @@
-:::writing
 # Todo API (FastAPI + SQLite)
 
 A simple RESTful Todo API built with **FastAPI** and **SQLite**.  
@@ -248,4 +247,3 @@ This project was created as a learning exercise to understand:
 - SQLite integration
 - Request validation with Pydantic
 - CRUD operations in backend development
-:::
